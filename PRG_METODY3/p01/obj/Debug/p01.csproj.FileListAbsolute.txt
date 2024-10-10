@@ -1,0 +1,10 @@
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\bin\Debug\p01.exe.config
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\bin\Debug\p01.exe
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\bin\Debug\p01.pdb
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\obj\Debug\p01.csproj.AssemblyReference.cache
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\obj\Debug\p01.Form1.resources
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\obj\Debug\p01.Properties.Resources.resources
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\obj\Debug\p01.csproj.GenerateResource.cache
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\obj\Debug\p01.csproj.CoreCompileInputs.cache
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\obj\Debug\p01.exe
+C:\Users\Jonáš Šindelář\Desktop\Škola\PRG\PRG_METODY3\p01\obj\Debug\p01.pdb
